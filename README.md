@@ -6,13 +6,20 @@
 </head>
 
 <body>
-    <div >
-<a href="images/Poyot1.jpg"  >
-        <img src="Poyot1.jpg border: 1px 25px"> 
-</a><p class="pstyle">Poyot 1</p>
+    <table>
+<tr>
+<td>
+<img src="Poyot1.jpg" alt="" "with="353" "height="391">
+    
+</td>
+
+
+    
+</tr>
+         
 
         
-    </div>
+    </table>
     
         
     
