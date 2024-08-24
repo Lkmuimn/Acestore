@@ -6,10 +6,10 @@
 </head>
 
 <body>
-    <table>
+
 <tr>
 <td>
-<img src="Poyot1.jpg" 
+<img src="Poyot1.jpg" "with="200" height="200"> 
     
 </td>
 
