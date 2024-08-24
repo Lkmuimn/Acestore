@@ -9,12 +9,12 @@
     <div class="gstyle">
     
         <a href="images/Poyot1.jpg" target="_blank">
-        <img src="/Poyot1.jpg"></a><p class="pstyle">Poyot 1</p>
+        <img src="Poyot1.jpg"></a><p class="pstyle">Poyot 1</p>
     
     </div>
     <div class="gstyle">
     <a href="images/Poyot2.jpg" target="_blank">
-        <img src="images/Poyot2.jpg"></a><p class="pstyle">Poyot 2</p>
+        <img src="Poyot2.jpg"></a><p class="pstyle">Poyot 2</p>
     
     </div>
     <div class="gstyle">
