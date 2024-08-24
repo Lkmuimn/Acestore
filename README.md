@@ -9,7 +9,7 @@
     <table>
 <tr>
 <td>
-<img src="Poyot1.jpg" "height="391">
+<img src="Poyot1.jpg" 
     
 </td>
 
@@ -19,7 +19,7 @@
          
 
         
-    </table>
+
     
         
     
