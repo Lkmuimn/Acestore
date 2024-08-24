@@ -6,10 +6,15 @@
 </head>
 
 <body>
-    <div class="gstyle">
+    <div >
+<a href="images/Poyot1.jpg"  >
+        <img src="Poyot1.jpg"border: 1px 25px> 
+</a><p class="pstyle">Poyot 1</p>
+
+        
+    </div>
     
-        <a href="images/Poyot1.jpg" target="_blank">
-        <img src="Poyot1.jpg"></a><p class="pstyle">Poyot 1</p>
+        
     
     </div>
     <div class="gstyle">
