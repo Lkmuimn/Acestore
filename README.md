@@ -8,7 +8,7 @@
 <body>
     <div >
 <a href="images/Poyot1.jpg"  >
-        <img src="Poyot1.jpg"border: 1px 25px> 
+        <img src="Poyot1.jpg border: 1px 25px"> 
 </a><p class="pstyle">Poyot 1</p>
 
         
