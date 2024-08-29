@@ -2,13 +2,18 @@
 <head>
 <meta charset="utf-8">
 <title>Untitled Document</title>
- <link href="gallerystyle.css" rel="stylesheet" type="text/css">
+ <link href="gallerystyle.css" rel="stylesheet" >
+<style>
+div{
+ Background-image:src'Poyot1.jpg;}
+</style>
+
 </head>
 
 
 
 <body>
- <img src="poyot1.jpg" background = poyot.jpg>
+ background= poyot1.jpg;
  <div class="gstyle">
     
         <a href="Poyot1.jpg" target="_blank">
@@ -16,8 +21,8 @@
     float:left;
     </div>
     <div class="gstyle">
-    <a href="imagesPoyot2.jpg" target="_blank">
-        <img src="imagesPoyot2.jpg"></a><p class="pstyle">Poyot 2</p>
+    <a href="Poyot2.jpg" target="_blank">
+        <img src="Poyot2.jpg"></a><p class="pstyle">Poyot 2</p>
     
 </body>
 </html>
