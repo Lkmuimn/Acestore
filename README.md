@@ -2,30 +2,20 @@
 <head>
 <meta charset="utf-8">
 <title>Untitled Document</title>
-
+<link href="gallerystyle.css" rel="stylesheet" type="text/css">
 </head>
-<div>
-  <img src="Poyot1.jpg" "with="200" height="200" float=left >   
-<div>
+
 <body>
-
-<tr>
-<td>
-<img src="Poyot1.jpg" "with="200" height="200"float=left> 
+ <div class="gstyle">
     
-<td>
-
-
+        <a href="imagesPoyot1.jpg" target="_blank">
+        <img src="images/oyot1.jpg"></a><p class="pstyle">Poyot 1</p>
     
-<tr>
-         
-
-        <img src="Poyot1.jpg" "with="200" height="200"> 
-
+    </div>
+    <div class="gstyle">
+    <a href="imagesPoyot2.jpg" target="_blank">
+        <img src="imagesPoyot2.jpg"></a><p class="pstyle">Poyot 2</p>
     
-        
-    
-    
-    
-<body>
+</body>
 </html>
+
