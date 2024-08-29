@@ -5,19 +5,19 @@
 
 </head>
 <div>
-  <img src="Poyot1.jpg" "with="200" height="200">   
-</div>
+  <img src="Poyot1.jpg" "with="200" height="200" float=left >   
+<div>
 <body>
 
 <tr>
 <td>
-<img src="Poyot1.jpg" "with="200" height="200"> 
+<img src="Poyot1.jpg" "with="200" height="200"float=left> 
     
-</td>
+<td>
 
 
     
-</tr>
+<tr>
          
 
         <img src="Poyot1.jpg" "with="200" height="200"> 
@@ -27,5 +27,5 @@
     
     
     
-</body>
+<body>
 </html>
