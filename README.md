@@ -5,9 +5,10 @@
  <link href="gallerystyle.css" rel="stylesheet" type="text/css">
 </head>
 
-</head>
+
 
 <body>
+ <img src="poyot1.jpg" background = poyot.jpg>
  <div class="gstyle">
     
         <a href="Poyot1.jpg" target="_blank">
