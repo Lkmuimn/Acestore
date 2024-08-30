@@ -3,6 +3,7 @@
 .gstyle{
     border: 225px solid #545454;
     width: 225px;
+    height:25px;
     float: left;
     margin: 5px;
     border-radius: 8px;
@@ -14,8 +15,9 @@
     
 }
 .gstyle img{
-    width: 150;
+    width: 150px;
     height: 150px;
+    
     float: left;
     border-radius: 8px 8px 0px 0px;
 
