@@ -1,8 +1,8 @@
 @charset "utf-8";
 
 .gstyle{
-    border: 5000px solid #545454;
-    width: 10000px;
+    border: 500px solid #545454;
+    width: 500px;
     float: left;
     margin: 5px;
     border-radius: 8px;
@@ -14,8 +14,8 @@
     
 }
 .gstyle img{
-    width: 5000;
-    height: 10000px;
+    width: 500;
+    height: 500px;
     float: left;
     border-radius: 8px 8px 0px 0px;
     transition: all 2s;
