@@ -21,7 +21,7 @@ div{
     float:left;
     </div>
     <div class="gstyle">
-    <a href="Poyot2.jpg" target="_blank">
+    <a href="Poyot2.jpg" target="_blank"<p class="pstyle">Poyot 1</p>>
         <img src="Poyot2.jpg"></a><p class="pstyle">Poyot 2</p>
     
 </body>
